@@ -12,7 +12,7 @@ const HeaderContent = styled.div`
   justify-content: space-between;
   align-items: center;
   position: relative;
-  z-index:2;
+  z-index:3;
 `
 const HeaderLogo = styled.div`
   img{
@@ -32,7 +32,7 @@ const HeaderNavBtn = styled.div`
       position: fixed;
       width: auto;
       top: 100px;
-      z-index:3;
+      z-index:2;
       background: #031B34;
       //width: 400px;
       padding: 20px;

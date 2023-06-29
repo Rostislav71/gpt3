@@ -43,7 +43,7 @@ const BurgerBtn = styled.button`
         transform: rotate(-45deg) translate(0px, -50%);
       }
       &::after{
-        bottom: 50%;
+        bottom: 44%;
         transform: rotate(45deg) translate(0px, 50%);
       }
     }
