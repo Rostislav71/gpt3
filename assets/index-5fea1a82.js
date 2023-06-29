@@ -175,7 +175,7 @@ Error generating stack: `+o.message+`
         transform: rotate(-45deg) translate(0px, -50%);
       }
       &::after{
-        bottom: 50%;
+        bottom: 44%;
         transform: rotate(45deg) translate(0px, 50%);
       }
     }
@@ -185,7 +185,7 @@ Error generating stack: `+o.message+`
   justify-content: space-between;
   align-items: center;
   position: relative;
-  z-index:2;
+  z-index:3;
 `,dm=N.div`
   img{
     width: 62.56px;
@@ -202,7 +202,7 @@ Error generating stack: `+o.message+`
       position: fixed;
       width: auto;
       top: 100px;
-      z-index:3;
+      z-index:2;
       background: #031B34;
       //width: 400px;
       padding: 20px;
